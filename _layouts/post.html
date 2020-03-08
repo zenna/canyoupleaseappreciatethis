@@ -21,15 +21,18 @@ layout: default
   <div class="post-content e-content" itemprop="articleBody" id="myPost" >
     {{ content }}
   </div>
- 
+  
+    <div class="post-content e-content" itemprop="articleBody" id="Thanks" >
+    It has been five minutes. Thank you ever so bever so much.
+  </div>
+  
   <div class="post-meta" id="postMeta">
     {% if page.author %}
       <div itemprop="author">{{ page.author }}</div>
     {% endif %}
     <time class="post-date dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%B %-d, %Y" }}</time>
   </div>
-  
-  <center> <p id="Thanks">Thank you ever so bever so much. </p> </center>
+    
   </body>
 <script>
 function initiallyHide() {
@@ -42,7 +45,9 @@ function clickedConfirm() {
   document.getElementById("myPost").style.display = "block";
   document.getElementById("postMeta").style.display = "block";
   document.getElementById("myButton").style.display = "none";
-  setTimeout(function(){ document.getElementById("Thanks").style.display = "block"; document.getElementById("myPost").style.display = "none"; document.getElementById("postMeta").style.display = "none";}, 300)
+  setTimeout(function(){ document.getElementById("Thanks").style.display = "block"; 
+                        document.getElementById("myPost").style.display = "none"; 
+                        }, 3000)
 }
   </script>
 </article>
