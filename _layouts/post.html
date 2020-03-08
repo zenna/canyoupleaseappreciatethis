@@ -13,6 +13,7 @@ layout: default
   {% if page.title != "" %}
     <h1 class="post-title divided p-name" itemprop="name headline">
       {{ page.title }}
+      <button onclick="clickedConfirm()" id="myButton">Click to confirm you will contemplate for five minutes</button>
     </h1>
   {% endif %}
 
@@ -20,26 +21,27 @@ layout: default
     {{ content }}
   </div>
  
-  <div class="post-meta">
+  <div class="post-meta" id="postMeta">
     {% if page.author %}
       <div itemprop="author">{{ page.author }}</div>
     {% endif %}
     <time class="post-date dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%B %-d, %Y" }}</time>
   </div>
   
-<button onclick="clickedConfirm()" id="myButton">Click to confirm you will contemplate for five minutes</button>
   <p id="Thanks">Thank you ever so bever so much. </p>
   </body>
 <script>
 function initiallyHide() {
   document.getElementById("myPost").style.display = "none";
+  document.getElementById("postMeta").style.display = "none";
   document.getElementById("Thanks").style.display = "none";
 
 }
 function clickedConfirm() {
   document.getElementById("myPost").style.display = "inline";
+  document.getElementById("postMeta").style.display = "inline";
   document.getElementById("myButton").style.display = "none";
-  setTimeout(function(){ document.getElementById("Thanks").style.display = "inline"; }, 300)
+  setTimeout(function(){ document.getElementById("Thanks").style.display = "inline"; document.getElementById("myPost").style.display = "none"; document.getElementById("postMeta").style.display = "none";}, 300)
 }
   </script>
 </article>
