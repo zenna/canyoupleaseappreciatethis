@@ -29,7 +29,7 @@ layout: default
     <time class="post-date dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%B %-d, %Y" }}</time>
   </div>
   
-  <p id="Thanks">Thank you ever so bever so much. </p>
+  < center id="Thanks">Thank you ever so bever so much. </center>
   </body>
 <script>
 function initiallyHide() {
@@ -41,8 +41,8 @@ function initiallyHide() {
 function clickedConfirm() {
   document.getElementById("myPost").style.display = "inline";
   document.getElementById("postMeta").style.display = "inline";
-  document.getElementById("myPost").addclass = "post-content e-content";
-  document.getElementById("postMeta").addclass = "post-meta";
+  document.getElementById("myPost").class = "post-content e-content";
+  document.getElementById("postMeta").class = "post-meta";
   document.getElementById("myButton").style.display = "none";
   setTimeout(function(){ document.getElementById("Thanks").style.display = "inline"; document.getElementById("myPost").style.display = "none"; document.getElementById("postMeta").style.display = "none";}, 300)
 }
