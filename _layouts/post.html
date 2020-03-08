@@ -13,8 +13,9 @@ layout: default
   {% if page.title != "" %}
     <h1 class="post-title divided p-name" itemprop="name headline">
       {{ page.title }}
-      <button onclick="clickedConfirm()" id="myButton">Click to confirm you will contemplate for five minutes</button>
     </h1>
+     <center>   <button onclick="clickedConfirm()" id="myButton">Click to confirm you will contemplate for five minutes</button></center>
+
   {% endif %}
 
   <div class="post-content e-content" itemprop="articleBody" id="myPost" >
@@ -38,6 +39,8 @@ function initiallyHide() {
 
 }
 function clickedConfirm() {
+  document.getElementById("myPost").style.display = "inline";
+  document.getElementById("postMeta").style.display = "inline";
   document.getElementById("myPost").addclass = "post-content e-content";
   document.getElementById("postMeta").addclass = "post-meta";
   document.getElementById("myButton").style.display = "none";
