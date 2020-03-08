@@ -38,8 +38,8 @@ function initiallyHide() {
 
 }
 function clickedConfirm() {
-  document.getElementById("myPost").style.display = "inline";
-  document.getElementById("postMeta").style.display = "inline";
+  document.getElementById("myPost").addclass = "post-content e-content";
+  document.getElementById("postMeta").addclass = "post-meta";
   document.getElementById("myButton").style.display = "none";
   setTimeout(function(){ document.getElementById("Thanks").style.display = "inline"; document.getElementById("myPost").style.display = "none"; document.getElementById("postMeta").style.display = "none";}, 300)
 }
