@@ -15,7 +15,7 @@ If a post was read and was not contemplated for five minutes, then it was not re
 
 <h5>Hints:</h5> 
 
-I recommend that you start each contemplation by taking a deep breath, then reading the text.  There is no rush, since you will have time to spare after you finish reading. After you finish reading, contemplate.  You may close your eyes if you want.  If you sense you are no longer contemplating, I recommend you take another deep breath, look at the text, and re-read as much as you want, then continue contemplating. You do not need to check the time, since the website will thank you five minutes after you pressed the button. Any thanks you receive from the website will be genuine, regardless of which directions your contemplation went. 
+I recommend that you start each contemplation by taking a deep breath, then reading the text.  There is no rush, since you will have time to spare after you finish reading. After you finish reading, contemplate.  You may close your eyes if you want.  If you sense you are no longer contemplating, I recommend you take another deep breath, look at the text, re-read as much as you want, then continue contemplating. You do not need to check the time, since the website will thank you five minutes after you pressed the button. Any thanks you receive from the website will be genuine, regardless of which directions your contemplation went. 
 
 <h5>If you want something appreciated here:</h5>
 
