@@ -39,12 +39,10 @@ function initiallyHide() {
 
 }
 function clickedConfirm() {
-  document.getElementById("myPost").style.display = "inline";
-  document.getElementById("postMeta").style.display = "inline";
-  document.getElementById("myPost").class = "post-content e-content";
-  document.getElementById("postMeta").class = "post-meta";
+  document.getElementById("myPost").style.display = "block";
+  document.getElementById("postMeta").style.display = "block";
   document.getElementById("myButton").style.display = "none";
-  setTimeout(function(){ document.getElementById("Thanks").style.display = "inline"; document.getElementById("myPost").style.display = "none"; document.getElementById("postMeta").style.display = "none";}, 300)
+  setTimeout(function(){ document.getElementById("Thanks").style.display = "block"; document.getElementById("myPost").style.display = "none"; document.getElementById("postMeta").style.display = "none";}, 300)
 }
   </script>
 </article>
