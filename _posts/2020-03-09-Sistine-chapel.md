@@ -1,5 +1,5 @@
 ---
-title: My Purple Plant
+title: Sistine Chapel
 author: Emily Mackevicius
 category: literature
 layout: post
