@@ -1,0 +1,8 @@
+---
+title: Inlet Valve
+author: Emily Mackevicius
+category: literature
+layout: post
+---
+
+My toilet tank overflowed. It sounds like the river soundtrack that I usually play on my speaker to mask the sirens and radiator clanging, and part of me blames Sophia and her Wake Up post for this coincidence. But as I was writing that, a maintenance person came, switched off the water, and fixed my toilet.  Before he came, I had used my pen to prop up what I now know is alternatively called the 'flush valve', 'piston', 'seal', or 'flapper' with my pen. This leaves me writing with a purple gel pen my grandmother gave me (along with 99 other gel pens), since I once collected all the purple pens (and a few green and yellow ones) to encourage people to draw my purple plant. I checked, and the thing that broke suddenly and dramatically, after being slightly leaky for a while, and is now replaced with a solid-looking red plastic model, is called the inlet valve. 
