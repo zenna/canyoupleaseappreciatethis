@@ -21,7 +21,7 @@ If any part this experience is difficult, know that I am thinking of you, and th
 
 <h5>If you need more rules:</h5> 
 
-Contemplate the issue about which you think you need additional rules, and I expect they will come.  For example, I though I needed a rule about comments on this website, and contemplation gave me the rule that all comments must be delivered by USPS. I liked this rule, but lacked space to add it officially. With unofficial rules, proceed at your own risk. 
+Contemplate the issue about which you think you need additional rules, and I expect they will come.  For example, I thought I needed a rule about comments on this website, and contemplation gave me the rule that all comments must be delivered by USPS. I liked this rule, but lacked space to add it officially. With unofficial rules, proceed at your own risk. 
 
 <h5>If you want something appreciated here:</h5>
 
