@@ -19,6 +19,10 @@ I recommend that you start each contemplation by taking a deep breath, then read
 
 If any part this experience is difficult, know that I am thinking of you, and that I'm pretty sure your experience will become more interesting than it is difficult.  To prove this to you, I rounded the corners of the button so that you wouldn't scratch yourself on the sharp corners.  
 
+<h5>If you need more rules:</h5> 
+
+Contemplate the issue about which you think you need additional rules, and I expect they will come.  For example, I though I needed a rule about comments on this website, and contemplation gave me the rule that all comments must be delivered by USPS. I liked this rule, but lacked space to add it officially. With unofficial rules, proceed at your own risk. 
+
 <h5>If you want something appreciated here:</h5>
 
 You know how to reach me.
