@@ -1,0 +1,10 @@
+---
+title: Sophie's Center
+author: Sophia Burress
+category: literature
+layout: post
+---
+
+Yesterday I learned that the universe is 90 billion light years "wide" in every direction. 45 billion light years in each direction looking out. But where is the center?
+
+Then I was told that since the universe exploded from a very tiny little space, everywhere can be considered the center. So it turns out, I was right all along, I am the center of the universe. And so are you.
