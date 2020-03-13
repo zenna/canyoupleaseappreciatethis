@@ -1,0 +1,10 @@
+---
+title: Small Framed Picture
+author: Emily Mackevicius
+category: literature
+layout: post
+---
+
+My mother put a small framed picture of her mother as an infant, held by her infant mother's mother, by her dying mother's bed. 
+
+My mother thought her dying mother looked like herself (my mother's mother) as an infant.
