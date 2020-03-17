@@ -6,7 +6,7 @@ layout: post
 ---
 
 Another Day
-<ul> to find the Florida birds so close to home ... the red cardinal in the palm tree ... the blue heron in the reeds, a statue watching the alligator pass by ... the whistling ducks like soldiers waiting for more troops to arrive, a diving cormorant.</ul> 
+<ul> &bull; to find the Florida birds so close to home ... the red cardinal in the palm tree ... the blue heron in the reeds, a statue watching the alligator pass by ... the whistling ducks like soldiers waiting for more troops to arrive, a diving cormorant.</ul> 
 
 <ul> to savor the tasty morsels navigating twisty passages of a healing colon</ul> 
 
