@@ -1,0 +1,12 @@
+---
+title: Bird Pot-Holders
+author: Emily Mackevicius
+category: literature
+layout: post
+---
+
+There were two years between when I heard Dmitriy's dream of what he would study in his new lab and when I showed up in NYC to join it.  A lot of the lab was set up in that time.  Knowing I was coming, my labmates ordered extras of supplies they knew I would also need.  When I arrived, I even had a choice between a chickadee or tufted titmouse mouse pad, the two bird species I would be studying. 
+
+Just as several of us were getting exciting experimental data, COVID-19 forced us, and much of the world, to work remotely.  We're trying to still do the best work we can, focusing on analysis, theory, and writing, since it looks like we won't do more experiments for a while.  We borrowed monitors or laptops from lab last week, and yesterday Dmitriy reiterated that it was particularly important to dedicate a nice space and routine for our work within our apartments.  
+
+Testing out my new space, I realized the mouse felt scratchy on my table.  What could I use as a mouse pad substitute?  I saw the pot-holdersmy grandmother sewed me, probably five years ago.  While they were just bird pot-holders then, one is definitely a chickadee, and the other, blueish gray with a white belly, looks strikingly titmouse to me now.  
