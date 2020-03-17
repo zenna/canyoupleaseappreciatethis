@@ -34,3 +34,5 @@ Another Day
 
 <ul> &bull; to see the moon in the night sky and the sun’s morning rise.</ul> 
 These, these are your days, witnessed!
+
+love, love, love, Awie xo
