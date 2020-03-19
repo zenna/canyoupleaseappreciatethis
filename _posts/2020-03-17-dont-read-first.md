@@ -5,7 +5,7 @@ category: literature
 layout: post
 ---
 
-I'm writing about things I'd rather not tell you.  So you're actually encouraged to stop reading now, and appreciate your own mind for the remaining time.  
+I'm writing about things I'd rather not tell you.  So you're actually encouraged to stop reading now, and appreciate your own mind and body for the remaining time.  
  
  
  
