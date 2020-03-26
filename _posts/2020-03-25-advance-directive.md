@@ -25,7 +25,7 @@ ELM: Yes, please.
 
 ELM: Yes, if the doctor estimates a >25% chance of me recovering.  But if they are asking, I'd guess CPR won't help, and you have my blessing to say no.
 
-<em>3. Would you want to continue mechanical respiration, i.e. use machines to keep youbreathing? </em>
+<em>3. Would you want to continue mechanical respiration, i.e. use machines to keep you breathing? </em>
 
 ELM: Only if the doctor estimates this would increase my chances of recovering within a week by >25%.  If they are asking, you have my blessing to say no.  If it's been a week and I'm still not in a state to make decisions for myself, please stop the machine.
 
