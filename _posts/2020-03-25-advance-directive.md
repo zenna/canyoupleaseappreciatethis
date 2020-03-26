@@ -9,9 +9,9 @@ In eighth grade, I wrote a 10 page history paper about end-of-life decisions. I 
 
 On one particularly beautiful day in high school, walking by the pond, I remember thinking I would be happy if poof my life ended then (but I'd also be happy if it didn't, and I didn't feel like ending it). This thought pops up occasionally in beautiful moments. 
 
-I'll start a grown-up contemplation now.  I admit to my eighth grade self that my aversion to hospitals and legal paperwork has grown.  But my eighth grade self and whomever else this may concern should consider this a formal document describing my thoughts and wishes for end-of-life care.  Traditional "Advance Directives" require extra doctor visits and gatherings of witnesses, which are not wise in this pandemic.  Instead, I am using a password-protected github website where I can commit version-controlled files stating my wishes. 
+I'll start a grown-up contemplation now.  I admit to my eighth grade self that my aversion to hospitals and legal paperwork has grown.  But consider this a formal document describing my thoughts and wishes for end-of-life care.  Traditional "Advance Directives" require extra doctor visits and gatherings of witnesses, which are not wise in this pandemic.  Instead, I am using a password-protected github website where I can commit version-controlled files. 
 
-The following questions are taken from New York State's guidance on "Advance Directives: Making your Wishes Known and Honored," and relate to making health care decisions on my behalf if I become unable to make decisions for myself. The answers are from and about me (Emily Mackevicius): as with other contemplations, others' thoughts will differ from mine.
+The following questions are taken from New York State's "Advance Directives: Making your Wishes Known and Honored," and are meant to guide healthcare decisions on my behalf if I become unable to make decisions for myself. The answers are from and about me (Emily Mackevicius): as with other contemplations, others' thoughts will differ from mine.
 
 <em>Health care proxy: </em> If I become unable to make my own health care decisions, I would like my sister, Claire Mackevicius, to make any and all health care decisions for me. If Claire were unwilling, unable, or unavailable I would like my parents to fill this role.  
 
@@ -27,4 +27,4 @@ The following questions are taken from New York State's guidance on "Advance Dir
 
 <em>6. Would you want to donate your organs and/or tissues?  </em> Yes, please! But if it's a hassle, don't worry about it.
 
-Additional thoughts: Keep telling jokes and thinking they are profound.  Regarding my assets, each immediate family member should decide about 1/3 (if you want an idea, help a dear friend of mine start a socially-minded business).  As you can imagine, it's unsettling for me to think about this "Advance Directive" being followed, or, slightly worse, not being followed, but I'm proud that it now exists. 
+Additional thoughts: Keep telling jokes and thinking they are profound.  As you can imagine, it's unsettling for me to think about this "Advance Directive" being followed, or, slightly worse, not being followed, but I'm proud that it now exists. 
