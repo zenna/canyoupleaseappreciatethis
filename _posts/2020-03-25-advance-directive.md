@@ -13,7 +13,7 @@ I'll start a grown-up contemplation now.  I admit to my eighth grade self that 
 
 The following questions are taken from New York State's "Advance Directives: Making your Wishes Known and Honored," and are meant to guide healthcare decisions on my behalf if I become unable to make decisions for myself. The answers are from and about me (Emily Mackevicius): as with other contemplations, others' thoughts will differ from mine.
 
-<em>Health care proxy: </em> If I become unable to make my own health care decisions, I would like my sister, Claire Mackevicius, to make any and all health care decisions for me. If Claire were unwilling, unable, or unavailable I would like my parents to fill this role.  
+<em>Health care proxy: </em> If I become unable to make my own health care decisions, I would like my sister to make any and all health care decisions for me. If she were unwilling, unable, or unavailable I would like my parents to fill this role.  
 
 <em>1. Would you want your doctor to withhold or withdraw medical treatment, if that medical treatment will only prolong dying? </em> Yes, please.
 
