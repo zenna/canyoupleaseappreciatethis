@@ -11,7 +11,7 @@ A commentary on "Tomato Can" was delivered today by USPS. The commentary include
 
 Dear Emily, 
 
-Here's hoping you <p style="text-decoration: underline;">appreciate</p>these objects, their essence, their utility, their form and function.  
+Here's hoping you <u>appreciate</u> these objects, their essence, their utility, their form and function.  
 
 Consider contemplating them, without a commitment to do so, for five minutes. 1. 2. 3. 4. 5.
 
