@@ -11,15 +11,45 @@ A commentary on "Tomato Can" was delivered today by USPS. The commentary include
 
 Dear Emily, 
 
-Here's hoping you <u>appreciate</u> these objects, their essence, their utility, their form and function.  
+    Here's hoping you 
 
-Consider contemplating them, without a commitment to do so, for five minutes. 1. 2. 3. 4. 5.
+<u>appreciate</u> these objects, 
 
-Consider what it means to be designed to open a can or pare a piece of fruit before and after having been used to do so. 
+their essence, their utility, 
 
-Consider, too, the story of the tulip quilt. 
+their form and function.  
 
-Consider having versus creating vs. realizing potential. 
+ Consider contemplating 
+
+them, without a commit-
+
+ment to do so, for five 
+
+minutes. 1. 2. 3. 4. 5.
+
+ Consider what it 
+
+means to be designed 
+
+to open a can or 
+
+pare a piece of fruit 
+
+before and after 
+
+having been used 
+
+to do so. 
+
+ Consider, too, the 
+
+story of the tulip 
+
+quilt. 
+
+Consider having versus 
+
+creating vs. realizing potential. 
 
 Love, Mummy xo
 
