@@ -1,5 +1,5 @@
 ---
-title: Anonymous Anomaly
+title: Anonymous Anomalies
 author: Emily Mackevicius
 category: literature
 layout: post
