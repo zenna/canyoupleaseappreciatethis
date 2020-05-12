@@ -1,5 +1,6 @@
+
 ---
-title: 48 Species
+title: Fourty-eight Species
 author: Emily Mackevicius
 category: literature
 layout: post
