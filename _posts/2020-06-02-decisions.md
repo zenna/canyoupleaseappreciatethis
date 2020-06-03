@@ -1,0 +1,8 @@
+---
+title: Decisions
+author: Lullyn Tavares
+category: literature
+layout: post
+---
+
+Finally, I’ve done it.  I’ve sent off my instructions confirming my decision.  Hesitated for at least five seconds before I hit the ‘send’ button on the email.  It has taken a long time to arrive. Regrets, I may have some but absolutely delighted to have made up my mind.  The sun is still shining and there’s time for my second round of  exercises during this coronavirus lock-down.   This time I’ll ride my bicycle instead of walking.  I may venture further and explore, now that my mind is clear from inhibiting thoughts; better to focus on the road ahead.  
