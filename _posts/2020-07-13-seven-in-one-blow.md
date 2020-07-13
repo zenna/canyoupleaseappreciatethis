@@ -1,0 +1,16 @@
+---
+title: Seven in One Blow
+author: Emily Mackevicius
+category: literature
+layout: post
+---
+
+The Grimm Brothers' "Brave Little Tailor" fairy tale starts with the tailor killing seven flies in one blow.  He is so inspired that he makes himself a "Seven in One Blow" belt, and sets off into the world.  He defeats a giant, who is intimidated by his belt, then continues on a life of wonderful adventures. 
+
+I remembered the Brave Little Tailor because I just caught a fly in a paper cup and released it out my window!
+
+I had seen it circling my apartment during my zoom meeting. It was big, a house fly not a fruit fly.  It easily dodged my flailing coaster.  Its reflexes outmatched my ability to slam the cup down quickly. 
+
+So instead I moved as slow as I was able and it worked... I shook the cup and heard the fly inside! 
+
+I was so pleased and eager for you to appreciate my triumph. As the new owner of a belt-sized loom, I now appreciate the Brave Little Tailor for his weaving inspiration. 
