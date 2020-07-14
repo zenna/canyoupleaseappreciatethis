@@ -5,7 +5,7 @@ category: literature
 layout: post
 ---
 
-The Grimm Brothers' "Brave Little Tailor" fairy tale starts with the tailor killing seven flies in one blow.  He is so inspired that he makes himself a "Seven in One Blow" belt, and sets off into the world.  He defeats a giant, who is intimidated by his belt, then continues on a life of wonderful adventures. 
+The Grimm Brothers' "Brave Little Tailor" fairy tale starts with the Tailor killing seven flies in one blow.  He is so inspired that he makes himself a "Seven in One Blow" belt, and sets off into the world.  He defeats a giant, who is intimidated by his belt, then continues on a life of wonderful adventures. 
 
 I remembered the Brave Little Tailor because I just caught a fly in a paper cup and released it out my window!
 
