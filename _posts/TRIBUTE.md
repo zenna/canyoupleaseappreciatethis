@@ -1,0 +1,9 @@
+---
+title: TRIBUTE
+author: Lullyn Tavares
+category: literature
+layout: post
+---
+
+How do I feel that I've ripped up all those pages filled with words? Thousands of words that are meaningless to anyone other than to you or to me, but you’re not here to turn them into poetry, so I’ve torn them up into shreds that no one will see. 
+It feels hollow.
