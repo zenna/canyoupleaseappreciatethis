@@ -1,5 +1,5 @@
 ---
-title: Tiny Delights
+title: <small>TINY DELIGHTS</small>
 author: Emily Mackevicius
 category: literature
 layout: post
