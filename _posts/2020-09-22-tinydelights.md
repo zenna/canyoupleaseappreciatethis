@@ -11,7 +11,7 @@ Being in the forest violates my standard "going to the bathroom" ritual, exposin
 
 I am bringing my mother backpacking for the first time this weekend. Among the shared gear she checked several times that I would bring was a light-weight shovel for digging a hole to poop in.  
 
-Joseph saw me carefully pick out a suitable bag (green and shimmery) to hold my new shovel, and suggested adding stickers: <small> MY VALUE IS NOT DETERMINED BY MY PRODUCTIVITY; I AM <u>NOT</u> A BURDEN; I CAN DO THIS*   *AND IF I CAN'T IT WILL PROBABLY BE OKAY ANYWAYS; I AM GRATEFUL FOR TINY DELIGHTS. </small>
+Joseph saw me carefully pick out a suitable bag (green and shimmery) to hold my new shovel, and suggested that the shovel could also benefit from some stickers: <small> MY VALUE IS NOT DETERMINED BY MY PRODUCTIVITY; I AM <u>NOT</u> A BURDEN; I CAN DO THIS*   *AND IF I CAN'T IT WILL PROBABLY BE OKAY ANYWAYS; I AM GRATEFUL FOR TINY DELIGHTS. </small>
 
 
 
