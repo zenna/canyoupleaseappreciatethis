@@ -5,7 +5,7 @@ category: literature
 layout: post
 ---
 
-I wasn't sure what I was saving this <small>I AM GRATEFUL FOR TINY DELIGHTS</small> sticker for, but something about the intricate almost magical design made me want to hold on to it.  I chose a different one of Janine's Kwohtations stickers to include with the letter I was writing. 
+I wasn't sure what I was saving this <small>I AM GRATEFUL FOR TINY DELIGHTS</small> sticker for, but something about the intricate almost magical design made me want to hold on to it.  I chose a different one of Janine's <small>KWOHTATIONS</small> stickers to include with the letter I was writing. 
 
 Being in the forest violates my standard "going to the bathroom" ritual, exposing deep fears (What if I am Seen?  What if I get Dirty?) as well as joys (I Feel Great! I am so Proud of that Accomplishment!). 
 
