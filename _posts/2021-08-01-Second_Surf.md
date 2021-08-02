@@ -1,0 +1,12 @@
+---
+title: Second Surf
+author: Emily Mackevicius
+category: literature
+layout: post
+---
+
+My first surf was sensory overload, on Joe's birthday after six months of pandemic-induced sensory deprivation. 
+
+Today, my second surf gave extra texture with the baby jellyfish that felt like thick bubble tea, and the pantless wetsuit exposing the tops of my legs to the surfboard's sandpaper, and the instructor singing love songs. 
+
+You'll have to imagine the rest of today's textures I want to tell you about, because my eyelids are drooping.
