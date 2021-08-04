@@ -1,0 +1,10 @@
+---
+title: Managing the Land
+author: Joseph Olson
+category: literature
+layout: post
+---
+
+I watched a family of house sparrows enjoying themselves in the grass outside my apartment this morning. I appreciated how lovely they were. They seemed very happy pecking away at the overgrown grass and hopping around within it. I meditated on the species journeys across the world, thinking probably their ability to generalize/adapt to environment along with their strong social behaviors have allowed them to be so global. They reminded me of the human race. But now the landscapers are mowing the grass. The sparrows and myself will both have to wait another week or so until we can do this again. 
+
+Last summer I worked from home. Like others who wished to brighten their lives during this time, I planted a few mammoth sunflowers (among many other plants) in the garden bed outside my apartment. The landscapers managed to weed-whack some of my sunflowers however one survived for a short but productive life. A couple weeks ago, I found a sunflower growing in an empty parking lot just a few dozen feet away. Must've had help from some birds. Today, after the landscapers left, I saw a Carolina chickadee clutching this sunflower and pecking out the seeds! This is the first time I have seen a chickadee outside my apartment. I wonder where the sunflower will be next summer.
