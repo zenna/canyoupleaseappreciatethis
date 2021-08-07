@@ -1,5 +1,5 @@
 ---
-title: Backpack design
+title: Backpack Design
 author: Emily Mackevicius
 category: literature
 layout: post
