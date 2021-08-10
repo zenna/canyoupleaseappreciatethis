@@ -1,0 +1,12 @@
+---
+title: Shards of Glass
+author: Emily Mackevicius
+category: literature
+layout: post
+---
+
+I broke a glass vase transferring my sunflowers to the mermaid pottery vase I made with Dyuti.  
+Cleaning up the sparkly shards, I remember a dream I had as a child of throwing beach class over a cliff, only to realize it would shatter into dust and float up to blind us. 
+Checking myself for damage, and finding a shallow red slash on my palm, I remember "Pizza", the festival performance artist who stepped on broken glass, then stripped off her pizza costume to erotically bask in it. Watching the next act from the bench, her thigh bled onto her pizza costume. 
+Before breaking the vase, I thought I'd write about how I revisited flow state a few times today, and focus on the fascinating border as I flicker in and out. 
+Staring at the mermaid vase, I recognize the same mesmerizing turbulance I like to chase in the drippy swirly mixes between glaze types.
