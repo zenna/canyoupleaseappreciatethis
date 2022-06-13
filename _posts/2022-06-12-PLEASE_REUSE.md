@@ -1,0 +1,14 @@
+---
+title: PLEASE REUSE
+author: Emily Mackevicius
+category: literature
+layout: post
+---
+
+Every time we visit family in Cleveland, we try to make a trip to Tommy's for a milkshake. They come in big sturdy plastic cups with dancing vegetables on the side. 
+
+I keep the cup often enough that I had a stack of three of them in my reusable plastics cabinet, so when my molding and casting ceramics teacher told us to bring something in for the first day of class, a simple shape with no overhangs, I arrived with a Tommy's cup. 
+
+Only after freeing the thin clay shell from the mold, when I went to sign the bottom of my first cast piece, did I notice a tiny "PLEASE REUSE" embossed on the bottom, clearer on clay than it had been on the translucent plastic. 
+
+Appreciate that I felt like I was answering Tommy's plea, in the mold, the cast, this post, like ancient writers who, Shiv told me, framed thoughts we would call "new" today as commentary on more-ancient writers. 
