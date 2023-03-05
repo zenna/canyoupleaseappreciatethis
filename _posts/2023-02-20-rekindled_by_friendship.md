@@ -5,7 +5,7 @@ category: literature
 layout: post
 ---
 
-Two mornings ago I dreamed that the stars had jostled from their normal places, and some had turned red or yellow. THey were vibrating ominously, and I felt alone in my concerns, trudging across a shaky bridge through a dark crumbling cityscape to check in on friends who, when I found them, seemed unphased. 
+Two mornings ago I dreamed that the stars had jostled from their normal places, and some had turned red or yellow. They were vibrating ominously, and I felt alone in my concerns, trudging across a shaky bridge through a dark crumbling cityscape to check in on friends who, when I found them, seemed unphased. 
 
 I scrolled the internet for many jetlagged hours, and disliked myself for it, and prayed, if that's what you call it, that I'd find a way out of this passive numbed-out passtime and back to feeling, creating, communing. 
 
