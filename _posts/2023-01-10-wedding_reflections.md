@@ -1,5 +1,5 @@
 ---
-title: Pre-post wedding reflections
+title: Pre-post Wedding Reflections
 author: Emily Mackevicius
 category: literature
 layout: post
