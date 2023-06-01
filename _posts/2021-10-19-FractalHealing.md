@@ -4,7 +4,7 @@ author: Emily Mackevicius
 category: literature
 layout: post
 ---
-.My department is undergoing a 'cultural transformation'.  It's becoming antiracist and pro-women in some beautiful ways, both top down and grassroots.  I'm proud of the person my department community is becoming.  But I'm worried it's suppressing a lot of its own personal trauma.  Is it possible to break a multigenerational cycle of trauma without a conscious acknowledgement of traumas that have happened, might still be happening?  
+My department is undergoing a 'cultural transformation'.  It's becoming antiracist and pro-women in some beautiful ways, both top down and grassroots.  I'm proud of the person my department community is becoming.  But I'm worried it's suppressing a lot of its own personal trauma.  Is it possible to break a multigenerational cycle of trauma without a conscious acknowledgement of traumas that have happened, might still be happening?  
 
 Our community's subconscious buzzes ... groping by professors ... decades of harassment complaints brushed off or gaslit or weighed against grant dollars ... warnings not to let a serial harasser close the door in one-on-one meetings ... at least three male PIs bothered enough by sexism witnessed in different faculty meetings to tell female postdocs about it ... lab incest and the ripples of dysfunction it creates ... choosing a climbing gym over a daycare ... hearing only from the nytimes of a harasser ousted from our community ... female postdoc candidates wary to apply ... the women who are often described as 'choosing' not to continue in academia.  
 
