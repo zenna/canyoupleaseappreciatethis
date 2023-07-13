@@ -1,5 +1,5 @@
 ---
-title: Disappointed enough
+title: Disappointed Enough
 author: Emily Mackevicius
 category: literature
 layout: post
