@@ -6,14 +6,16 @@ layout: post
 ---
 
 Unaddressed letter to my mentors  
-
+\
+\
 Sinking back into music,  
 Dancing alone, so you won't  
 Smile or stare without joining me,  
 Won't block my view of other dancers,  
 Won't let me believe  
 I'm dancing alone.  
-
+\
+\
 I might shut my eyes,  
 Find a quiet cave or cliff.  
 It won't be quiet there,  
@@ -21,14 +23,16 @@ Even underwater, something
 will be dancing. We teach  
 Each other how  
 to not dance.  
-
+\
+\
 How to clip our birds' wings,  
 How to construct the boxes,  
 We trap each other in.  
 How to stay still, watching  
 Others dance, and also,  
 How to dance.  
-
+\
+\
 Will you let me thank you,  
 If I also mourn the ecosystems,  
 You drained, dried, dug, destroyed?  
