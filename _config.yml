@@ -22,6 +22,7 @@ url: "http://canyoupleaseappreciatethis.com" # the base hostname & protocol for 
 icon: /assets/images/icon-512.png
 twitter_username: jekyllrb
 github_username:  jekyll
+hide_search: True
 
 # Build settings
 markdown: kramdown
