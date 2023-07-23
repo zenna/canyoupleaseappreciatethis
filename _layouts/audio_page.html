@@ -1,0 +1,56 @@
+---
+layout: default
+---
+
+{% if site.data.menu %}
+  {% include menu.html %}
+{% else %}
+  {% include back-link.html %}
+{% endif %}
+
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting" id="main" role="article" aria-label="Content">
+<body onload="initiallyHide()">
+  {% if page.title != "" %}
+    <h1 class="post-title divided p-name" itemprop="name headline">
+      {{ page.title }}
+    </h1>
+
+     <center>   <button class="button" onclick="clickedConfirm()" id="myButton">Click to access arbitrary audio</button></center>
+
+  {% endif %}
+
+  <div class="post-content e-content" itemprop="articleBody" id="myPost" >
+    {{ content }}
+  </div>
+  
+    <div class="post-content e-content" itemprop="articleBody" id="audio" >
+        <audio controls>
+            <source src="assets/audio/placeholder.mp3" type="audio/mpeg">
+          Your browser does not support the audio element.
+          </audio>
+  </div>
+  
+  <div class="post-meta" id="postMeta">
+    {% if page.author %}
+      <div itemprop="author">{{ page.author }}</div>
+    {% endif %}
+    <time class="post-date dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%B %-d, %Y" }}</time>
+  </div>
+    
+  </body>
+<script>
+function initiallyHide() {
+  document.getElementById("audio").style.display = "none";
+  document.getElementById("postMeta").style.display = "none";
+  document.getElementById("Thanks").style.display = "none";
+
+}
+function clickedConfirm() {
+  document.getElementById("audio").style.display = "block";
+  document.getElementById("postMeta").style.display = "block";
+  document.getElementById("myButton").style.display = "none";
+}
+  </script>
+</article>
+
+
