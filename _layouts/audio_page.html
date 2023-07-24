@@ -45,8 +45,7 @@ function clickedConfirm() {
   const audioPlayer = document.getElementById('audioPlayer');
   
   // Set the source of the audio element to the random .mp3 file
-  // audioPlayer.src = '/assets/tts_for_yellow_website/audio' + (randomIndex).toString() +  '.mp3';
-  audioPlayer.src = 'assets/tts_for_yellow_website/audio_outputs/audio5.mp3';
+  audioPlayer.src = '/assets/tts_for_yellow_website/audio_outputs/audio' + (randomIndex).toString() +  '.mp3';
   
   // Play the audio
   audioPlayer.play();
