@@ -15,7 +15,7 @@ layout: default
       {{ page.title }}
     </h1>
 
-     <center>   <button class="button" onclick="clickedConfirm()" id="myButton">Click now and again to hear Herbert</button></center>
+     <center>   <button class="button" onclick="clickedConfirm()" id="myButton">Click to hear Herbert<br>~feel free to pause~</button></center>
 
   {% endif %}
 
@@ -28,32 +28,24 @@ layout: default
           </audio>
   </div>
   
-  <div class="post-meta" id="postMeta">
-    {% if page.author %}
-      <div itemprop="author">{{ page.author }}</div>
-    {% endif %}
-    <time class="post-date dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%B %-d, %Y" }}</time>
-  </div>
     
   </body>
 <script>
 function initiallyHide() {
   document.getElementById("audio").style.display = "none";
-  document.getElementById("postMeta").style.display = "none";
 }
 function clickedConfirm() {
-  document.getElementById("postMeta").style.display = "block";
   document.getElementById("myButton").style.display = "none";
   document.getElementById("audio").style.display = "block";
 
   // Get a random index for an audio file
-  const randomIndex = Math.floor(Math.random() * 84);
+  const randomIndex = Math.floor(Math.random() * 85);
   
   // Get the audio element
   const audioPlayer = document.getElementById('audioPlayer');
   
   // Set the source of the audio element to the random .mp3 file
-  audioPlayer.src = '/assets/tts_for_yellow_website/audio' + str(randomIndex) +  '.mp3';
+  audioPlayer.src = '/assets/tts_for_yellow_website/audio' + (randomIndex).toString() +  '.mp3';
   
   // Play the audio
   audioPlayer.play();
