@@ -24,7 +24,7 @@ layout: default
   </div>
   
     <div class="post-content e-content" itemprop="articleBody" id="audio" >
-        <audio controls style="margin: 0 auto; display: block;">
+        <audio controls style="margin: 0 auto; display: block;" id="audioPlayer">
             <source src="/assets/audio/placeholder.mp3" type="audio/mpeg">
           Your browser does not support the audio element.
           </audio>
@@ -49,7 +49,24 @@ function clickedConfirm() {
   document.getElementById("audio").style.display = "block";
   document.getElementById("postMeta").style.display = "block";
   document.getElementById("myButton").style.display = "none";
+  playRandomMP3()
 }
+
+function playRandomMP3() {
+
+  // Get a random index for an audio file
+  const randomIndex = Math.floor(Math.random() * 84);
+  
+  // Get the audio element
+  const audioPlayer = document.getElementById('audioPlayer');
+  
+  // Set the source of the audio element to the random .mp3 file
+  audioPlayer.src = '/assets/tts_for_yellow_website/audio' + str(randomIndex) +  '.mp3';
+  
+  // Play the audio
+  audioPlayer.play();
+}
+
   </script>
 </article>
 
