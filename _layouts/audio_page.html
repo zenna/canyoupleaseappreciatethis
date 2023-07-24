@@ -25,8 +25,6 @@ layout: default
   
     <div class="post-content e-content" itemprop="articleBody" id="audio" >
         <audio controls style="margin: 0 auto; display: block;" id="audioPlayer">
-            <source src="/assets/audio/placeholder.mp3" type="audio/mpeg">
-          Your browser does not support the audio element.
           </audio>
   </div>
   
@@ -42,17 +40,11 @@ layout: default
 function initiallyHide() {
   document.getElementById("audio").style.display = "none";
   document.getElementById("postMeta").style.display = "none";
-  document.getElementById("Thanks").style.display = "none";
-
 }
 function clickedConfirm() {
-  document.getElementById("audio").style.display = "block";
   document.getElementById("postMeta").style.display = "block";
   document.getElementById("myButton").style.display = "none";
-  playRandomMP3()
-}
-
-function playRandomMP3() {
+  document.getElementById("audio").style.display = "block";
 
   // Get a random index for an audio file
   const randomIndex = Math.floor(Math.random() * 84);
