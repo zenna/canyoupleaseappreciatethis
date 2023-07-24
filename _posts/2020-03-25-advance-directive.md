@@ -13,15 +13,15 @@ I'll start a grown-up contemplation now.  I admit to my eighth grade self that 
 
 The following questions are taken from New York State's "Advance Directives: Making your Wishes Known and Honored," and are meant to guide healthcare decisions on my behalf if I become unable to make decisions for myself. The answers are from and about me (Emily Mackevicius): as with other contemplations, others' thoughts will differ from mine.
 
-<em>Health care proxy: </em> If I become unable to make my own health care decisions, I would like my sister to make any and all health care decisions for me. If she were unwilling, unable, or unavailable I would like my parents to fill this role.  
+<em>Health care proxy: </em> If I become unable to make my own health care decisions, I would like my husband Joseph Olson to make any and all health care decisions for me. If he were unwilling, unable, or unavailable I would like my sister, or my parents, to fill this role.  
 
 <em>1. Would you want your doctor to withhold or withdraw medical treatment, if that medical treatment will only prolong dying? </em> Yes, please.
 
 <em>2. Would you want cardiopulmonary resuscitation (CPR) to restore stopped breathing and/or heartbeat? </em> Yes, if the doctor estimates a >25% chance of me recovering.  But if they are asking, I'd guess CPR won't help, and you have my blessing to say no.
 
-<em>3. Would you want to continue mechanical respiration, i.e. use machines to keep you breathing? </em> Only if the doctor estimates this would increase my chances of recovering within a week by >25%.  If they are asking, you have my blessing to say no.  If it's been a week and I'm still not in a state to make decisions for myself, please stop the machine.
+<em>3. Would you want to continue mechanical respiration, i.e. use machines to keep you breathing? </em> Only if the doctor estimates this would increase my chances of recovering within two weeks by >25%.  By recovering, I mean, recovering to a point where I could make medical decisions for myself. If they are asking, you have my blessing to say no.  If it's been two weeks and I'm still not in a state to make decisions for myself, please stop the machine.
 
-<em>4. Would you want tube or intravenous feeding and water?</em> Only if the doctor estimates this would increase my chances of recovering within a week by >25%.  If they are asking, you have my blessing to say no.  If it's been a week and I'm still not in a state to make decisions for myself, please stop.
+<em>4. Would you want tube or intravenous feeding and water?</em> Only if the doctor estimates this would increase my chances of recovering within two weeks by >25%.  If they are asking, you have my blessing to say no.  If it's been two weeks and I'm still not in a state to make decisions for myself, please stop.
 
 <em>5. Would you want maximum pain relief even if it hastens your death? </em> I don't care.  I anticipate being slightly interested in the dying process, but not to the extent that I would want to prolong it.
 
