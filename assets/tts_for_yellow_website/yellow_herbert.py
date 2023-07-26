@@ -106,7 +106,7 @@ def md_to_txt(post_filename):
 
             # Extract the body text from the Markdown text
             body_text = markdown_text[header_end:].strip()
-            body_text = re.sub(r'<[^>]*>|\\|\n|&bull;', '   ', body_text)
+            body_text = re.sub(r'<[^>]*>|\\|\n|&bull;|&nbsp;', '   ', body_text)
 
 
         out_text = title + ", by " + author + ", "
