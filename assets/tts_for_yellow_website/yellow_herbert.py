@@ -106,7 +106,7 @@ def md_to_txt(post_filename):
 
             # Extract the body text from the Markdown text
             body_text = markdown_text[header_end:].strip()
-            body_text = re.sub(r'<[^>]*>|\\|\n|&bull;|&nbsp;', '   ', body_text)
+            
 
 
         out_text = title + ", by " + author + ", "
@@ -119,8 +119,9 @@ def md_to_txt(post_filename):
         date_obj = datetime(year, month, day)
         out_text += date_obj.strftime("%B %d, %Y") + ": "
 
-        # Remove HTML tags and content within angle brackets, and newlines and bullets
         out_text += body_text
+
+        out_text = re.sub(r'<[^>]*>|\\|\n|&bull;|&nbsp;', '   ', out_text)
 
         with open(output_filename, 'w') as file:
             file.write(out_text)

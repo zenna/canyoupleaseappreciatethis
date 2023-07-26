@@ -18,14 +18,14 @@ Listened for hours, weeks, months.
 You still respect and cherish those  
 &nbsp; Who still don't hear you.  
 But now you've officially decided,  
-&nbsp; It's easier to communicate your decision  
+&nbsp; It's easier to communicate your decision.  
 The tingling pressure of waiting  
 &nbsp; For everyone to understand and agree  
 Pops. Ouch. Relief.  
 \
 \
 Appreciate that Gily recognized this feeling in me today, over Whatsapp on the roof.  
-\ 
+\
 \
 Appreciate that I recognized this feeling in Zenna today, as I listened, happily interrupting less than I might have.  
 \
