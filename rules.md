@@ -26,3 +26,7 @@ Contemplate the issue about which you think you need additional rules, and I exp
 <h5>If you want something appreciated here:</h5>
 
 You know how to reach me.
+
+<h5>Arbitrary Audio:</h5>
+
+Please pause the audio when you do not appreciate it. 
